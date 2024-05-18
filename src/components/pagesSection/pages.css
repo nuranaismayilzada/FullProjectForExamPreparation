@@ -6,6 +6,8 @@
 
 .PagesSection {
     background-color: white;
+    position: sticky;
+    top: 60px;
 }
 
 .container {

@@ -5,6 +5,8 @@
 }
 header{
     background-color: #333;
+    position: sticky;
+    top: 0px;
 }
 .headerSection{
     height: 60px;
